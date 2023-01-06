@@ -41,4 +41,5 @@ inquirer.prompt(QUESTIONS).then(answers => {
     fs.mkdirSync(`${CURR_DIR}/${templateName}`);
 
     createDirectoryContents(templatePath, templateName);
+    createDirectoryContents(`${__dirname}/husky`, templateName);
 });

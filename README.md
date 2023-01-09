@@ -4,17 +4,12 @@
 
 > Simple Cli to Spin up Scalable & Robust NextJs Application, Beautifully architected for Great DX
 
-## Install
+## Get Started 
 
 ```sh
-yarn install
+npx nextjs-starter-templates
 ```
 
-## Run tests
-
-```sh
-yarn run test
-```
 
 ## Author
 

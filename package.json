@@ -14,7 +14,9 @@
   "license": "ISC",
   "dependencies": {
     "chalk-pipe": "^6.0.0",
-    "inquirer": "^8.0.0"
+    "cli-box": "^6.0.10",
+    "inquirer": "^8.0.0",
+    "ora": "^6.1.2"
   },
   "devDependencies": {
     "@babel/core": "^7.20.7",

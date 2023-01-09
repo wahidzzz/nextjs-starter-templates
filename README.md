@@ -1,4 +1,4 @@
-# Welcome to nextjs-starter-templates 👋
+#  NextJS Starter Template Cli 👋
 [![Version](https://img.shields.io/npm/v/nextjs-starter-templates.svg)](https://www.npmjs.com/package/nextjs-starter-templates)
 [![License: ISC](https://img.shields.io/badge/License-ISC-yellow.svg)](#)
 
@@ -10,7 +10,9 @@
 npx nextjs-starter-templates
 ```
 
+![](./assets/select-template.png)
 
+![](./assets/select-template.png)
 ## Author
 
 👤 **wahid**

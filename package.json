@@ -1,6 +1,6 @@
 {
   "name": "nextjs-starter-templates",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": " Simple Cli to Spin up Scalable & Robust NextJs Application, Beautifully architected for Great DX",
   "main": "index.js",
   "type": "module",

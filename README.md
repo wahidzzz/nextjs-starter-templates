@@ -5,11 +5,7 @@
 
 >  Simple Cli to Spin up Scalable & Robust NextJs Application, Beautifully architected for Great DX
 
-### 🏠 [Homepage](https://gitlab.com/nodeprojects4/nextjs-starter-templates)
-
-### ✨ [Demo](https://gitlab.com/nodeprojects4/nextjs-starter-templates)
-
-
+### 🏠 [Homepage](https://github.com/wahidzzz/nextjs-starter-templates)
 
 ## Usage
 

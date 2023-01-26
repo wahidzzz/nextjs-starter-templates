@@ -10,6 +10,13 @@
   "bin": {
     "nextjs-starter-templates": "./index.js"
   },
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/wahidzzz/nextjs-starter-templates"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/wahidzzz"
+  },
   "author": "wahid",
   "license": "ISC",
   "dependencies": {

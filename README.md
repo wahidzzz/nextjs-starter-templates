@@ -9,7 +9,6 @@
 
 >  Simple Cli to Spin up Scalable & Robust NextJs Application, Beautifully architected for Great DX
 
-### 🏠 [Homepage](https://github.com/wahidzzz/nextjs-starter-templates)
 
 ## Usage
 
@@ -21,7 +20,7 @@ npx nextjs-starter-templates
 
 <table border="0" style="width:100%">
  <tr>
-    <td><b style="font-size:20px">Available/In-Progress</b></td>
+    <td><b style="font-size:20px">Available</b></td>
     <td><b style="font-size:20px">Comming Soon</b></td>
  </tr>
  <tr>

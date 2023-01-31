@@ -1,6 +1,6 @@
 {
   "name": "nextjs-starter-templates",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": " Simple Cli to Spin up Scalable & Robust NextJs Application, Beautifully architected for Great DX",
   "main": "index.js",
   "type": "module",
@@ -14,9 +14,7 @@
       "type": "git",
       "url": "https://github.com/wahidzzz/nextjs-starter-templates"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/wahidzzz"
-  },
+  "keywords": ["cli","nextjs","react", "boilerplate","starter","template","@apollo/client","urql","react-query","graphql"],
   "author": "wahid",
   "license": "ISC",
   "dependencies": {

@@ -12,6 +12,11 @@ import createDirectoryContents from './createDirectoryContents.js';
 const CURR_DIR = process.cwd();
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
+let availableTemplates=[
+    "nextjs-apollo-client",
+    "nextjs-react-query",
+    "nextjs-urql-client"
+]
 let templateName = "."
 const CHOICES = fs.readdirSync(`${__dirname}/templates`);
 // Set custom marks
@@ -62,8 +67,8 @@ const spinner = ora({
 })
 inquirer.prompt(QUESTIONS)
     .then(answers => {
-        if (answers['template-choice'] !== "nextjs-apollo-client") {
-            console.log(chalkPipe("orange.bold")("Only ApolloClient can be installed, Other Templates are Coming Soon !!"));
+        if (!availableTemplates.includes(answers['template-choice'])) {
+            console.log(chalkPipe("orange.bold")("Please check README for a list of all Available Templates, Not All Templates are downloadable yet."));
             return false
         }
         const templateChoice = answers['template-choice'];

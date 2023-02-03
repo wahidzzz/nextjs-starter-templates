@@ -15,7 +15,8 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 let availableTemplates=[
     "nextjs-apollo-client",
     "nextjs-react-query",
-    "nextjs-urql-client"
+    "nextjs-urql-client",
+    "nextjs-material-ui"
 ]
 let templateName = "."
 const CHOICES = fs.readdirSync(`${__dirname}/templates`);

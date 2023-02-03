@@ -26,16 +26,18 @@ npx nextjs-starter-templates
  <tr>
     <td>
         <ul>
-            <li><a href="https://www.apollographql.com/docs/react/" style="text-decoration: unset;">apollo client</a></li>
-            <li><a href="https://formidable.com/open-source/urql/docs/" style="text-decoration: unset;">urql client</a></li>
-            <li><a href="https://react-query-v3.tanstack.com/" style="text-decoration: unset;">react-query</a></li>
+            <li><a href="https://www.apollographql.com/docs/react/" style="text-decoration: unset;">Apollo Client</a></li>
+            <li><a href="https://formidable.com/open-source/urql/docs/" style="text-decoration: unset;">Urql Client</a></li>
+            <li><a href="https://react-query-v3.tanstack.com/" style="text-decoration: unset;">React Query</a></li>
+            <li><a href="https://mui.com/material-ui/getting-started/overview/" style="text-decoration: unset;">MUI React</a></li>
         </ul>
     </td>
       <td>
         <ul>
-            <li><a href="https://redux-toolkit.js.org/" style="text-decoration: unset;">redux toolkit</a></li>
-            <li><a href="https://tailwindcss.com/" style="text-decoration: unset;">tailwind css</a></li>
-            <li><a href="https://mui.com/material-ui/getting-started/overview/" style="text-decoration: unset;">MUI react</a></li>
+            <li><a href="https://redux-toolkit.js.org/" style="text-decoration: unset;">Redux Toolkit</a></li>
+            <li><a href="https://tailwindcss.com/" style="text-decoration: unset;">Tailwind Css</a></li>
+            <li><a href="https://mantine.dev/guides/next/" style="text-decoration: unset;">Mantine UI</a></li>
+            
         </ul>
     </td>
  </tr>

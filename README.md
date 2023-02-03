@@ -37,7 +37,6 @@ npx nextjs-starter-templates
             <li><a href="https://redux-toolkit.js.org/" style="text-decoration: unset;">Redux Toolkit</a></li>
             <li><a href="https://tailwindcss.com/" style="text-decoration: unset;">Tailwind Css</a></li>
             <li><a href="https://mantine.dev/guides/next/" style="text-decoration: unset;">Mantine UI</a></li>
-            
         </ul>
     </td>
  </tr>
